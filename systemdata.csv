@@ -1,0 +1,7 @@
+SystemDataID,DataType,SystemSettings,SystemMonitoring
+SYS_0001,UserData,Full Access,Inapplicable
+SYS_0002,Reservation,Limited Access,Inapplicable
+SYS_0003,LoyaltyPoints,Limited Access,Inapplicable
+SYS_0004,FlagStatus,Inapplicable,Limited Access
+SYS_0005,Review,Inapplicable,Full Access
+SYS_0006,Analytics,Inapplicable,Full Access
